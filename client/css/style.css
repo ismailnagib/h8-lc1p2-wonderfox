@@ -1,0 +1,26 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.h-70 {
+  height: 250px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+}
+
+#map {
+  height: 300px;
+  width: 100%;
+}
